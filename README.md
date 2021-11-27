@@ -1,2 +1,2 @@
-# Modeling-software-v2
-Modeling Software V2
+# Modeling software, second edition
+Software modeling for an electronic bank project
