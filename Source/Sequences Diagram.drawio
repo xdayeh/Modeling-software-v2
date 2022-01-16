@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T12:22:34.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="5X_nUsZZLXSP6SDgUKby" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T12:24:49.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="E-L1mqUJ-CnSWni9Bv6f" version="16.2.7" type="github">
   <diagram id="AR_MfOo3Hp1RGb-NP4cN" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -145,9 +145,6 @@
             <mxPoint x="330" y="330" as="sourcePoint" />
             <mxPoint x="250" y="330" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UZTgPrUg466q5XbxoCcg-81" value="Sequences Diagram " style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="230" y="10" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
