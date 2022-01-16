@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T21:58:22.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ieTmoF073DIPBLLHHAid" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T08:01:57.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="4T6ZbBDiUCkIoruwqMEX" version="16.2.7" type="github">
   <diagram id="AR_MfOo3Hp1RGb-NP4cN" name="Page-1">
-    <mxGraphModel dx="823" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,12 +38,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="80" y="250" as="sourcePoint" />
             <mxPoint x="250" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UZTgPrUg466q5XbxoCcg-60" value="Subscriber account information" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.079;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UZTgPrUg466q5XbxoCcg-65">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="255" y="200" as="sourcePoint" />
-            <mxPoint x="70" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZTgPrUg466q5XbxoCcg-61" value="Enter the subscription number&lt;br&gt;&amp;nbsp;and shipping value" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UZTgPrUg466q5XbxoCcg-73">
@@ -144,6 +138,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="560" as="sourcePoint" />
             <mxPoint x="55" y="370.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZTgPrUg466q5XbxoCcg-80" value="Subscriber account information" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.967;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UZTgPrUg466q5XbxoCcg-73" target="UZTgPrUg466q5XbxoCcg-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="330" as="sourcePoint" />
+            <mxPoint x="250" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
